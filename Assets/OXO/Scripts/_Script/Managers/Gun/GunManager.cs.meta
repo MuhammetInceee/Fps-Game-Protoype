@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: aad80b2a39ed4d542bb1ef07f29e34ed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gunManagerSettings: {fileID: 11400000, guid: 8f4064a57d7ac5641a93bf5d5eb928c8, type: 2}
+  - bulletSettings: {fileID: 11400000, guid: ae5bf0f8b7b00554d8b6b0c3f20e919c, type: 2}
+  - targetFinder: {instanceID: 0}
+  - gun: {instanceID: 0}
+  - firePos: {instanceID: 0}
+  - bulletPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
